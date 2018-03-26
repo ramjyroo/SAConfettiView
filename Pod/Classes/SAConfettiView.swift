@@ -4,6 +4,7 @@
 //
 //  Created by Sudeep Agarwal on 12/14/15.
 //
+// Updated by Robert Hanlon on 03/26/2018: Swift 4 support
 //
 
 import UIKit
